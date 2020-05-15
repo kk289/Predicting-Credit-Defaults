@@ -1,0 +1,2 @@
+# Predicting-Credit-Defaults
+To assist this institution in quantifying the risk of loan non-repayment, five supervised machine learning techniques were employed, each of which output a probability of default for an individual with certain other known characteristics. Information such as an individual’s marital status, age, previous bill and payment amounts, balance limit, and education level achieved were all considered as potential predictors for these models. For every model, 10-fold cross validation was employed to give an estimate of the misclassification rate.
